@@ -1,0 +1,82 @@
+.Defuld-bg{
+    background: #f9f9ff;
+}
+.menu-logu-part span{
+    color: #779efd; 
+}
+.menu-logu-part a{
+    text-decoration: none;
+    color: black;
+}
+.menu-part ul li a{
+    color: black;
+    transition: .2s;
+    font-weight: bold;
+}
+.menu-part ul li a:hover{
+    color: #779efd;
+}
+.header-menu a{
+    color: #111;
+    font-weight: bold;
+}
+.menu-logu {
+	font-size: 26px;
+	color: #111;
+	font-weight: bold;
+}
+.slider-text-part{
+    padding-top: 150px;
+}
+.slider-text-part a{
+    background: #8490ff;
+    border: none;
+}
+
+.mymenu{
+    width: 100% !important;
+}
+.slider-text{
+        padding-top: 55px;
+        margin-left: 40px;
+}
+
+img {
+	vertical-align: middle; 
+	border-style: none;
+	max-width: 100%;
+}
+.count-part{
+    background: #8490ff;
+    color: #fff; 
+ 
+}
+.count-part h1{
+    font-weight: bold;
+}
+
+
+.card-logu{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.card {}
+.card ul li {
+	list-style: none;
+	font-size: 20px;
+	line-height: 62px;
+    color: #666573;
+} 
+
+.jonson-img {
+	position: relative;
+	top: 78px;
+	left: 0;
+	z-index: 99;
+}
+
+/* page-section-css */
+/*  */

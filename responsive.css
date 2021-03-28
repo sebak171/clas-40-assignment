@@ -1,0 +1,42 @@
+@media(max-width:1200px){
+    .slider-text-part {
+        padding-top: 90px;
+    }
+}
+@media(max-width:992){
+    .slider-text-part {
+        padding-top: 41px;
+    }
+}
+@media(max-width:750px){
+    .slider-text-part {
+        padding-top: 9px;
+    }
+    .slider-part-2 {
+        margin-top: 1rem !important;
+    }
+    .slider-img-part {
+        align-items: center !important;
+    }
+    .thisme {
+        margin-bottom: 0 !important;
+    }
+    .part-card {
+        width: 346px;
+        margin: auto;
+    }
+    .img-width{
+        width: 12% !important;
+        margin-left: 47px;
+    }
+    .form-contact-section{
+        text-align: center;
+    }
+    .credsection{
+        margin-bottom: 10px;
+    }
+
+}
+
+/* page-section */
+/*  */
